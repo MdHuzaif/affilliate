@@ -542,6 +542,37 @@ h6 {
   color: #1bb1dc;
 }
 
+/*my change ------------*/
+
+#about .about-content h2 a {
+  color: #413e66;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+#about .about-content h2 a:hover,
+a:active,
+a:focus {
+  color: #0a98c0;
+  outline: none;
+  text-decoration: none;
+}
+
+#about .about-content h5 a {
+  color: #413e66;
+  transition: 0.5s;
+}
+
+#about .about-content h5 a:hover,
+a:active,
+a:focus {
+  color: #0a98c0;
+  outline: none;
+  text-decoration: none;
+}
+
+/*my change ------------*/
+
 #about .about-img {
   position: relative;
   margin: 30px 30px 30px 30px;
