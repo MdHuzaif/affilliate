@@ -519,7 +519,7 @@ h6 {
 
 #about .about-content h2 {
   color: #413e66;
-  font-family: "Montserrat", sans-serif;
+  font-family: "arial";
   font-weight: 700;
   font-size:30px;
 }
@@ -550,7 +550,7 @@ h6 {
 
 #about .about-content h2 a {
   color: #413e66;
-  font-family: "Montserrat", sans-serif;
+  font-family: "arial";
   font-weight: 700;
   font-size:30px;
 }
