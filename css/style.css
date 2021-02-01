@@ -527,15 +527,15 @@ h6 {
 #about .about-content h2 {
   color: #413e66;
   font-family: "arial";
-  font-weight: 700;
-  font-size:30px;
+  font-weight: 650;
+  font-size:28px;
 }
 
 #about .about-content h3 {
-  color: #696592;
+  color: #413e66;
   font-weight: 400;
-  font-size: 22px;
-  font-style: italic;
+  font-size: 25px;
+  font-family: "arial";
 }
 
 #about .about-content ul {
@@ -558,8 +558,8 @@ h6 {
 #about .about-content h2 a {
   color: #413e66;
   font-family: "arial";
-  font-weight: 700;
-  font-size:30px;
+  font-weight: 650;
+  font-size:28px;
 }
 
 #about .about-content h2 a:hover,
@@ -569,6 +569,23 @@ a:focus {
   outline: none;
   text-decoration: none;
 }
+
+#about .about-content h3 a {
+  color: #413e66;
+  font-family: "arial";
+  font-weight: 400;
+  font-size:25px;
+}
+
+#about .about-content h3 a:hover,
+a:active,
+a:focus {
+  color: #0a98c0;
+  outline: none;
+  text-decoration: none;
+}
+
+
 
 #about .about-content h5 a {
   color: #413e66;
@@ -612,6 +629,7 @@ a:focus {
   content: '';
   background-color: #ebf1fa;
   transition: .5s;
+  
 }
 
 #about .about-img::after {
@@ -624,6 +642,7 @@ a:focus {
   content: '';
   background-color: #ebf1fa;
   transition: .5s;
+
 }
 
 
